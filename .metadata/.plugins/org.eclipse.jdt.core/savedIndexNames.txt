@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\cleid\OneDrive\Documentos\Programação\java\projetosUEG\chat\.metadata\.plugins\org.eclipse.jdt.core
+2929775495.index
+1696264553.index
+1865797976.index
